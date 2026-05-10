@@ -142,7 +142,7 @@ Handles:
 
 ---
 
-##Performance Notes
+## Performance Notes
 
 - Trail length is limited to reduce rendering load
 - Updates run at 1Hz for balance between accuracy and performance
@@ -155,7 +155,3 @@ Handles:
 To provide a **visual, real-time representation of satellite motion around Earth** using accurate orbital mechanics and a responsive interactive map interface.
 
 ---
-
-## 🛰️ License
-
-This project is for educational and research purposes.
