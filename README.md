@@ -2,7 +2,7 @@
 
 A real-time satellite tracking desktop application built with Python.  
 It visualizes satellites moving live on a world map using orbital mechanics and a web-based map engine embedded inside a Qt desktop GUI.
-
+<img src = "satimage.png", size = 50%>
 ---
 
 ## Features
